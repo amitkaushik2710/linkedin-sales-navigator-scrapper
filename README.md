@@ -1,9 +1,11 @@
 # linkedin-sales-navigator-scrapper
 
+This documentation will guide you through the steps to use the provided **Linkedin Sales Navigator Scrapper** in this repository to gather information from **LinkedIn Sales Navigator Leads and Account**.
+
+
 > [!IMPORTANT]
 > Before running the script, log in to your LinkedIn account using the same Firefox profile.
 
-This documentation will guide you through the steps to use the provided **Linkedin Sales Navigator Scrapper** in this repository to gather information from **LinkedIn Sales Navigator Leads and Account**.
 
 ## Prerequisites
 * Python 3.8+ or higher
