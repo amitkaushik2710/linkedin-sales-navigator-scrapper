@@ -17,6 +17,9 @@ You can clone the repository using the following command or download it as a ZIP
 git clone https://github.com/amitkaushik2710/linkedin-sales-navigator-scrapper.git
 ```
 
+![clone_zip](https://github.com/amitkaushik2710/linkedin-sales-navigator-scrapper/assets/147363019/1c9ea3a1-5536-466c-a8e6-e16fcd60b7e1)
+
+
 ## Step 2: Create a Mozilla Profile
 To use Mozilla Firefox for scraping LinkedIn, you need to create a dedicated Mozilla Firefox profile. Follow these steps to create one:
 
