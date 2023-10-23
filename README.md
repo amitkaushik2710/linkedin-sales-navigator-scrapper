@@ -40,6 +40,9 @@ Replace /path/to/repo with the actual path to the repository directory.
 
 Now, run the Python script using the following command:
 ```
+pip install selenium
+```
+```
 python main.py --profile_path "<mozilla profile path>" --lead_path "<linkedin lead url>" --account_path "<linkedin account url>"
 ```
 Replace the placeholders with the actual paths and URLs. For example:
