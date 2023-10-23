@@ -28,11 +28,21 @@ To use Mozilla Firefox for scraping LinkedIn, you need to create a dedicated Moz
 3. Click on "Create a New Profile."
 4. Follow the on-screen instructions to create a new profile and give it a name. Remember the path to this profile, as you will need it in the command.
 
+![firefox_profile](https://github.com/amitkaushik2710/linkedin-sales-navigator-scrapper/assets/147363019/c4b3cce4-c54f-4c16-8bd2-10aa761077b6)
+
+
 ## Step 3: Search for the keyword in Linkedin Sales Navigator
 Search for the keyword in Linkedin Sales Navigator, and copy the LinkedIn lead URL and account URL you want to scrape.
 
+![lead](https://github.com/amitkaushik2710/linkedin-sales-navigator-scrapper/assets/147363019/2f909578-3bfb-4827-b9f1-54ea5dd8b20d)
+
+![account](https://github.com/amitkaushik2710/linkedin-sales-navigator-scrapper/assets/147363019/4fc23344-73d4-4b29-92ea-89a8737dbe40)
+
+
 ## Step 4: Open Command Prompt
 Open the Command Prompt or terminal on your system.
+
+![cmd](https://github.com/amitkaushik2710/linkedin-sales-navigator-scrapper/assets/147363019/c3c7a341-d60d-4aa6-865c-1ebd521d105f)
 
 ## Step 5: Run the Script
 Navigate to the repository directory in the Command Prompt using the cd command:
